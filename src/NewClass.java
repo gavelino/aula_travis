@@ -1,0 +1,3 @@
+class NewClass{
+	String str;
+}
