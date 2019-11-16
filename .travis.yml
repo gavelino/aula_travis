@@ -1,10 +1,10 @@
 language: java
 
-
-script: ./mvn clean
-
-
 cache:
   directories:
   - "$HOME/.cache"
 
+
+
+deploy:
+  skip_cleanup: false
