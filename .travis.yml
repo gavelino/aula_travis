@@ -1,6 +1,5 @@
 language: java
 
 
-
-deploy:
-  skip_cleanup: false
+script: 
+	mvn clean
