@@ -1,4 +1,4 @@
-package aula_travis.main;
+package main.java;
 import java.util.Arrays;
 
 public class Main {

@@ -1,4 +1,4 @@
-package aula_travis.test;
+package test.java;
 
 import static org.junit.Assert.assertTrue;
 
@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 import org.junit.Test;
 
-import aula_travis.main.Menu;
+import main.java.Menu;
 
 public class TestMenu {
 	@Test
