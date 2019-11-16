@@ -4,7 +4,7 @@ import static org.junit.Assert.assertTrue;
 
 import java.util.Arrays;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import aula_travis.main.Menu;
 
