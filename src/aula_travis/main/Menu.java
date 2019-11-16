@@ -18,6 +18,10 @@ public class Menu {
 		this.title = title;
 		this.options = options;
 	}
+	
+	public int getNumberOfOptions() {
+		return options.size();
+	}
 
 	public int getSelection() {
 		int op = 0;
